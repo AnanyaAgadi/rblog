@@ -1,0 +1,12 @@
+#navfont {
+  font-size: 21px;
+  
+}
+
+#navfont li a {
+  color: white;
+}
+
+a:hover{
+  background-color: #bd4333;
+}
